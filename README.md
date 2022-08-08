@@ -12,7 +12,7 @@
 </ul>
 
 <img src="https://github-readme-stats.vercel.app/api?username=merhmood">
-
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=merhmood"/>
 
 <h3 align="left">How to reach me:</h3>
 <p align="left">
