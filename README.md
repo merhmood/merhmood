@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, i am Mahmud Zubairu👋</h1> 
 <h3 align="center">Architecture Driven Software Engineer</h3>
 
-<img src="https://github.com/merhmood/merhmood.github.io/blob/master/public/assets/github.png?raw=true" align="center">
+<p align="center"><img src="https://github.com/merhmood/merhmood.github.io/blob/master/public/assets/github.png?raw=true"></p>
 
 <h3>I’m looking to collaborate on</h3>
 <ul>
