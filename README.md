@@ -1,6 +1,17 @@
 <h1 align="center">Hi there, i am Mahmud Zubairu👋</h1> 
 <h3 align="center">Architecture Driven Software Engineer</h3>
 
+<h3>- 👯 I’m looking to collaborate on</h3>
+<ul>
+<li>Software architecture</li>
+<li>Software design (using design patterns)</li>
+<li>Domain driven design</li>
+<li>Behavioural driven development</li></li>
+<li>Agile</li>
+</ul>
+
+
+
 <h3 align="left">- 📫 How to reach me:</h3>
 <p align="left">
 <a href="https://twitter.com/merh_mood" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrmikespade" height="30" width="40" /></a>
