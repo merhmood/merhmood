@@ -11,6 +11,8 @@
 </ul>
 
 
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra">
+
 
 <h3 align="left">How to reach me:</h3>
 <p align="left">
