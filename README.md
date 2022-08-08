@@ -2,10 +2,6 @@
 <h3 align="center">Architecture Driven Software Engineer</h3>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=merhmood">
-
-
-
 <h3>I’m looking to collaborate on</h3>
 <ul>
 <li>Software architecture</li>
@@ -15,7 +11,7 @@
 <li>Agile</li>
 </ul>
 
-
+<img src="https://github-readme-stats.vercel.app/api?username=merhmood">
 
 
 <h3 align="left">How to reach me:</h3>
