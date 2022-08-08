@@ -24,7 +24,7 @@
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=merhmood&show_icons=true&theme=radical">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=merhmood&theme=radical"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=merhmood&theme=midnight"/>
 
 <!--
 **merhmood/merhmood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
