@@ -1,6 +1,7 @@
 <h1 align="center">Hi there, i am Mahmud Zubairu👋</h1> 
 <h3 align="center">Architecture Driven Software Engineer</h3>
 
+
 <h3>- 👯 I’m looking to collaborate on</h3>
 <ul>
 <li>Software architecture</li>
@@ -18,6 +19,8 @@
 <a href="https://www.linkedin.com/in/mahmud-suberu-684020235/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mikespade/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/merh_mood/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.mikespade" height="30" width="40" /></a>
 </p>
+
+<h3></h3>
 
 <!--
 **merhmood/merhmood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
