@@ -1,4 +1,4 @@
-<h3 align="center">Hi there, i am Mahmud Zubairu👋</h3> 
+<h1 align="center">Hi there, i am Mahmud Zubairu👋</h1> 
 <h3 align="center">Architecture Driven Software Engineer</h3>
 
 <h3 align="left">Connect with me:</h3>
