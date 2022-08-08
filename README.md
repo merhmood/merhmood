@@ -1,6 +1,7 @@
 <h1 align="center">Hi there, i am Mahmud Zubairu👋</h1> 
 <h3 align="center">Architecture Driven Software Engineer</h3>
 
+<g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png"></g-emoji>
 
 <h3>- 👯 I’m looking to collaborate on</h3>
 <ul>
