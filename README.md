@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, i am Mahmud Zubairu👋</h1> 
 <h3 align="center">Architecture Driven Software Engineer</h3>
-<p align="center" style="margin-bottom: 0;"><img src="https://github.com/merhmood/merhmood/blob/main/githubprof-100.jpg?raw=true"></p>
+<p align="center"><img src="https://github.com/merhmood/merhmood/blob/main/githubprof-100.jpg?raw=true"></p>
 
 <h3>I’m looking to collaborate on 👀:</h3>
 <ul>
