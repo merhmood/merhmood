@@ -6,7 +6,7 @@
 <li>Software architecture</li>
 <li>Software design (using design patterns)</li>
 <li>Domain driven design</li>
-<li>Behavioural driven development</li></li>
+<li>Behavioural/Test driven development</li></li>
 <li>Agile</li>
 </ul>
 
