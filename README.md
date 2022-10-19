@@ -4,7 +4,7 @@
 <h3>I’m looking to collaborate on 👀:</h3>
 <ul>
 <li>Software architecture</li>
-<li>Software design (using design patterns)</li>
+<li>Software design</li>
 <li>Domain driven design</li>
 <li>Behavioural/Test driven development</li></li>
 <li>Agile</li>
