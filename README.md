@@ -1,6 +1,6 @@
 ### Hello, i'm mahmud suberu, your coding ACE 😏
 
-Need a helping hand, hit me up on [twitter](https://twitter.com/merh_mood), [linkedIn](https://www.linkedin.com/in/mahmud-suberu-684020235/).
+Need a helping hand, hit me up on [twitter](https://twitter.com/merh_mood),
 
 
 <!--
